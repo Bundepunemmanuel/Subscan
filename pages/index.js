@@ -332,7 +332,7 @@ export default function Home() {
           )}
         </main>
 
-        <footer className="footer">Built for SaaS founders · Powered by Reddit &amp; Groq AI</footer>
+        <footer className="footer">Built for SaaS founders · Powered by Reddit &amp; AI</footer>
       </div>
     </>
   );
