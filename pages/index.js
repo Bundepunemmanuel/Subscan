@@ -195,7 +195,7 @@ export default function Home() {
 
   const shareUrl = (title) => {
     const text = encodeURIComponent(
-      `Found this pain signal in r/${scanned} using SubScan — ${title}\nsubscan.vercel.app #indiehackers #buildinpublic`
+      `Found this pain signal in r/${scanned} using SubScan — ${title}\nsubscan-omega.vercel.app #indiehackers #buildinpublic`
     );
     return `https://twitter.com/intent/tweet?text=${text}`;
   };
